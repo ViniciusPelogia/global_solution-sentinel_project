@@ -824,12 +824,12 @@ Encerra o sistema:
 
 # 👥 Equipe
 
-| Integrante       | RM       | Email                                         |
-| ---------------- | -------- | --------------------------------------------- |
-| Vinicius Pelogia | RM XXXXX | [email@exemplo.com](mailto:email@exemplo.com) |
-| David Tomaz      | RM XXXXX | [email@exemplo.com](mailto:email@exemplo.com) |
-| Eric Yuiti       | RM XXXXX | [email@exemplo.com](mailto:email@exemplo.com) |
-| Antuny           | RM XXXXX | [email@exemplo.com](mailto:email@exemplo.com) |
+| Integrante       | RM       | Email                                                        |
+| ---------------- | -------- | ------------------------------------------------------------ |
+| Vinicius Pelogia | RM 572675 | [vinipelogia@gmail.com](mailto:vinipelogia@gmail.com)       |
+| David Tomaz      | RM 570348 | [daviddesatomaz@gmail.com](mailto:daviddesatomaz@gmail.com) |
+| Eric Yuiti       | RM 573495 | [email@exemplo.com](mailto:email@exemplo.com)               |
+| Antuny Menezes   | RM 572107 | [antunyyt@gmail.com](mailto:antunyyt@gmail.com)             |
 
 ---
 
