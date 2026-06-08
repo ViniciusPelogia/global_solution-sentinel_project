@@ -1,0 +1,8 @@
+horario,geracao_kwh,consumo_kwh,reserva_kwh,temp_interna,radiacao,qualidade_comunicacao,suporte_vida,energia,comunicacao,habitat,laboratorio,armazenamento
+00:00,82,60,78,22,baixa,96,1,1,1,1,1,1
+04:00,70,64,100,21,baixa,92,1,1 ,1,1,1,1
+08:00,68,62,106,23,media,85,1,1,1,1,1,1
+12:00,45,86,92,25,alta,62,1,1,1,0,1,1
+16:00,34,61,51,26,alta,41,1,1,0,1,1,1
+20:00,25,98,-6,28,alta,28,1,1,0,1,0,1
+24:00,18,82,0,27,media,55,1,1,1,1,0,1
