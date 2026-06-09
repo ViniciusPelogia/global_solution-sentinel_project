@@ -86,7 +86,7 @@ def analise_producao(dados):
             plt.figtext(
                 0.99,
                 0.01,
-                "Aurora Siger - Monitoramento Energético Diário",
+                "Sentinel - Monitoramento Energético Diário",
                 ha="right",
                 fontsize=8
             )
@@ -169,7 +169,7 @@ def previsao_proximo_ciclo(dados):
         plt.figtext(
             0.99,
             0.01,
-            "Aurora Siger - Sistema Inteligente de Monitoramento",
+            "Sentinel - Sistema Inteligente de Monitoramento",
             ha="right",
             fontsize=8
         )
