@@ -80,9 +80,9 @@ def help_service():
         "sentinel": "O SENTINEL é um sistema inteligente integrado de monitoramento da colônia marciana.",
         "global solution": "A Global Solution é um projeto integrador da FIAP focado em resolver desafios reais com tecnologia.",
         "projeto": "O projeto analisa telemetria, energia, módulos críticos, logs, alertas, previsão e recomendações.",
-        "equipe": "Equipe: Vinicius Pelogia do Nascimento | RM: 572675 | Email: vinipelogia@gmail.com\nDavid de Sá Tomaz | RM: 570348 | Email: daviddesatomaz@gmail.com\nAntuny Marques de Menezes | RM: 572107 | Email: antunyyt@gmail.com\nEric Yuiti Ito Nissi | RM: 573495 | Email: ",
+        "equipe": "Equipe: Vinicius Pelogia do Nascimento | RM: 572675 | Email: vinipelogia@gmail.com\nDavid de Sá Tomaz | RM: 570348 | Email: daviddesatomaz@gmail.com\nAntuny Marques de Menezes | RM: 572107 | Email: antunyyt@gmail.com\nEric Yuiti Ito Nissi | RM: 573495 | Email:Eric.nissi@gmail.com",
         "rm": "RMs: Vinicius Pelogia - 572675\nAntuny Menezes - 572107\nEric Yuiti - 573495\bDavid Tomaz - 570348",
-        "email": "Emails: Vinicius Pelogia - vinipelogia@gmail.com\nDavid Tomaz - daviddesatomaz@gmail.com\nAntuny Menezes - antunyyt@gmail.com\n Eric Yuiti - "
+        "email": "Emails: Vinicius Pelogia - vinipelogia@gmail.com\nDavid Tomaz - daviddesatomaz@gmail.com\nAntuny Menezes - antunyyt@gmail.com\n Eric Yuiti - Eric.nissi@gmail.com"
     }
 
     while True:
