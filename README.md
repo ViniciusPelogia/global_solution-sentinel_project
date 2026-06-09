@@ -681,7 +681,7 @@ Recomendações:
 ## 1. Clonar o repositório
 
 ```bash
-(https://github.com/ViniciusPelogia/global_solution-sentinel_project.git)
+https://github.com/ViniciusPelogia/global_solution-sentinel_project.git
 ```
 
 Entrar na pasta:
