@@ -828,7 +828,7 @@ Encerra o sistema:
 | ---------------- | -------- | ------------------------------------------------------------ |
 | Vinicius Pelogia | RM 572675 | [vinipelogia@gmail.com](mailto:vinipelogia@gmail.com)       |
 | David Tomaz      | RM 570348 | [daviddesatomaz@gmail.com](mailto:daviddesatomaz@gmail.com) |
-| Eric Yuiti       | RM 573495 | [email@exemplo.com](mailto:email@exemplo.com)               |
+| Eric Yuiti       | RM 573495 | [Eric.nissi@gmail.com](mailto:Eric.nissi@gmail.com)         |
 | Antuny Menezes   | RM 572107 | [antunyyt@gmail.com](mailto:antunyyt@gmail.com)             |
 
 ---
