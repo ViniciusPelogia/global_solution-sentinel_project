@@ -681,7 +681,7 @@ Recomendações:
 ## 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO_AQUI
+(https://github.com/ViniciusPelogia/global_solution-sentinel_project.git)
 ```
 
 Entrar na pasta:
@@ -850,7 +850,7 @@ O vídeo deve estar publicado como **não listado**.
 Link do GitHub:
 
 ```text
-INSERIR_LINK_DO_REPOSITORIO_AQUI
+(https://github.com/ViniciusPelogia/global_solution-sentinel_project.git)
 ```
 
 ---
