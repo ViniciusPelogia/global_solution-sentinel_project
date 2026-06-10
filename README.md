@@ -153,7 +153,7 @@ GlobalSolution/
 │
 ├── docs/
 │   ├── relatorio.pdf
-│   ├── link_video.txt
+│   ├── link_.txt
 │   └── uso_ia.md
 │
 ├── src/
@@ -838,7 +838,7 @@ Encerra o sistema:
 Link do vídeo no YouTube:
 
 ```text
-(https://youtu.be/jFhEt1HBA-Y)
+https://youtu.be/jFhEt1HBA-Y
 ```
 
 ---
@@ -848,7 +848,7 @@ Link do vídeo no YouTube:
 Link do GitHub:
 
 ```text
-(https://github.com/ViniciusPelogia/global_solution-sentinel_project.git)
+https://github.com/ViniciusPelogia/global_solution-sentinel_project.git
 ```
 
 ---
