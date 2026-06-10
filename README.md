@@ -841,7 +841,9 @@ Link do vídeo no YouTube:
 INSERIR_LINK_DO_VIDEO_AQUI
 ```
 
-O vídeo deve estar publicado como **não listado**.
+```text
+(https://youtu.be/jFhEt1HBA-Y)
+```
 
 ---
 
