@@ -838,10 +838,6 @@ Encerra o sistema:
 Link do vídeo no YouTube:
 
 ```text
-INSERIR_LINK_DO_VIDEO_AQUI
-```
-
-```text
 (https://youtu.be/jFhEt1HBA-Y)
 ```
 
